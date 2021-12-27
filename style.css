@@ -1,0 +1,57 @@
+body{
+			background-color:antiquewhite;
+		}
+		form{
+			width: 480px;
+			height: 600px ;
+			border: 2px solid black;
+			padding: 15px;
+			background-color: peachpuff;
+		}
+		.header{
+			text-align: left;
+			font-family: fantasy;
+		}
+		.home{
+			background-color: palegoldenrod;
+			width: 420px;
+			height: 25px;
+			border: 2px groove black;
+			font-family: cursive;
+		}
+		.list-item{
+			width: 420px;
+			height: 25px;
+			font-family: monospace;
+			text-align: left;
+			border: 2px lightcoral;
+			padding: 0.25em 0.25em;
+			position: relative;
+			top: 42px;
+			bottom: 25px;
+			right: 21px;
+		}
+		.footer{
+			width: 420px;
+			height: 25px;
+			font-family: sans-serif;
+			
+		}
+		button{
+			color: violet;
+			background-color: floralwhite;
+			font-family: cursive;
+		}
+		button:hover{
+			color: gray;
+			background-color: purple;
+			border-color: black;
+		}
+		.alert-warning{
+			color: black;
+			background-color: floralwhite;
+			border-color: black;
+		}
+		.alert{
+			position: relative;
+		}
